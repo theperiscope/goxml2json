@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/dist": true,
+    "**/.DS_Store": true,
+    "**/WebSettings.config": true,
+    "**/WebConnections.config": true,
+    "**/WebSettings.json": true,
+    "**/WebConnections.json": true
+  }
+}
